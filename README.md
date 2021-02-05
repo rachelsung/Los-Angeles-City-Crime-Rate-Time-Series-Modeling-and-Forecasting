@@ -1,1 +1,5 @@
-# Los-Angeles-City-Crime-Rate-Time-Series-Modeling-and-Forecasting
+## Los Angeles City Crime Rate Time Series  Modeling and Forecasting
+
+### Executive Summary
+
+Crime presents threats to public safety, and its influencing factors could be complex. This report aims at identifying the influencing factors and patterns of the occurrences of crimes in Los Angeles. Understanding the impact of economic and other external factors such as weather conditions on crime is critical for ensuring government's agility to deal with recurrent crises. Specifically, we measure the impact of GDP, homelessness, weather conditions and unemployment rate on crime per capita in Los Angeles from January 2010 to August 2020. The research reveals that crime shows a weak positive correlation with GDP, rent CPI, temperature and a slight negative correlation with the unemployment rate. Based on the overall robustness, simplicity, accuracy and interpretability, an ADL model with seasonal components, crime rate lagged by 2, as well as GDP lagged by 12 and its quadratic terms and cubic term is chosen to provide a one-step forward crime rate forecast in LA.
